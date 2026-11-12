@@ -7,7 +7,7 @@
 
 
 
-\
+
 
 
 ---
@@ -469,8 +469,3 @@ Contributions, technical feedback, and suggestions are welcome.
 
 The repository's licensing and redistribution terms should be reviewed before using or redistributing this project.
 ---
-
-\<p align="center">
-&#x20; \<b>CustomSecureStorage\</b>\<br>
-&#x20; Secure Storage · Cryptography · C++
-\</p>
